@@ -8,6 +8,17 @@ Management system for digital exams.
 
 ## Release Notes
 
+### 3800.210412.0
+* IOS-616 Update mail texts
+* Fix unread message notifications
+
+### 3800.210318.0
+* Fix default start/end time in exam grid
+* Course code was not clickable
+* Update Corona prefill message and update text of the corona campaign module
+* <p> tags are not rendered in topdesk, just use <br> tags
+
+
 ### 3800.210311.0
 * IOS-551 Changing the name of an activity in syllabus will create a schedule change
 * IOS-506, IOS-564 Update mail texts
