@@ -8,6 +8,10 @@ Management system for digital exams.
 
 ## Release Notes
 
+### 3800.210419.0
+* Remove unread message feature
+* IOS-632 Fix exams with no location cannot be shown
+
 ### 3800.210412.0
 * IOS-616 Update mail texts
 * Fix unread message notifications
